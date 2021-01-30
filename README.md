@@ -1,4 +1,4 @@
-# Would-you-rather-api
+#The Would you rather api
 An  API with more than a hundred Would You Rather questions.
 <h4 class="font-semibold text-4xl text-white" style="margin-left:25px;">The API</h4>
 
