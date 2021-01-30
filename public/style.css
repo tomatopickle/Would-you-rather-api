@@ -1,0 +1,46 @@
+.btn{
+  border: solid white 2px;
+  border-radius: 0;
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+  transition: all 0.25s;
+  margin: auto;
+  display: block;
+}
+.btn:hover{
+  background-color: white;
+  color: black;
+  text-decoration: none !important;
+}
+.url{
+  border-radius: 0;
+  color: black !important;
+  font-size: 25px;
+  padding: 5px;
+  transition: all 0.25s;
+  margin: auto;
+  display: block;  
+  width: 75vw;
+  background-color: white;
+  max-width: max-content;
+}
+a.btn{
+  width: max-content;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.nav{
+  width: 100%;
+  color: white;
+}
+.url:hover{
+  text-decoration: none !important;
+}
+.uk-modal-dialog{
+  height: 100%;
+  color: white;
+}
+a.normal-case:hover{
+  color: white;
+}
